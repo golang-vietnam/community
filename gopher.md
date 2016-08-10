@@ -1,5 +1,7 @@
 # Manifesto of good gophers
 
+
+
 ## A good software developer
 
 - [ ] Write unit test
