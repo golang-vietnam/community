@@ -34,6 +34,7 @@ Notes
 - Ngô Ngọc Trường Hân - https://github.com/tieubao
 - Nguyễn Mậu Quang Vũ - https://github.com/ng-vu
 - Phạm Huỳnh Minh Triết - https://github.com/trietphm
+- Lê Đông Thức - https://github.com/ledongthuc
 
 ## List of open source projects by Vietnam Gophers
 
