@@ -27,6 +27,7 @@ Notes
 
 ## List of Vietnam Gophers
 
+- Lê Mạnh Cường - https://github.com/Gnouc
 - Lê Đông Thức - https://github.com/ledongthuc
 - Lê Minh Quang - https://github.com/ivkean
 - Lê Ngọc Thạch - https://github.com/runivn
@@ -38,6 +39,8 @@ Notes
 
 ## List of open source projects by Vietnam Gophers
 
+- [envim](https://github.com/Gnouc/envim) - Go environment variables for human
 - [glod-cli](https://github.com/dwarvesf/glod-cli) - A small command line to download files from several sources
+- [gogi](https://github.com/Gnouc/gogi) - Go client for gitignore.io
 - [hget](https://github.com/huydx/hget) - A rocket fast download accelerator written in golang
 - [sen](https://github.com/dwarvesf/sen) - Separated API automation testing made easy
