@@ -27,6 +27,7 @@ Notes
 
 ## List of Vietnam Gophers
 
+- Lê Đông Thức - https://github.com/ledongthuc
 - Lê Minh Quang - https://github.com/ivkean
 - Lê Ngọc Thạch - https://github.com/runivn
 - Nguyễn Đức Tâm - https://github.com/tamnd87
