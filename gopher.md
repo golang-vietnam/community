@@ -1,7 +1,5 @@
 # Manifesto of good gophers
 
-
-
 ## A good software developer
 
 - [ ] Write unit test
@@ -11,6 +9,25 @@
 - [ ] How to write a git commit
 - [ ] Git branching model
 - [ ] Pull request
+
+## Fundamental should read
+
+- [ ] [Effective GO language](https://golang.org/doc/effective_go.html "Effective GO language")
+- [ ] [Code review with GO](https://github.com/golang/go/wiki/CodeReviewComments "Code review with GO")
+- [ ] [Interface, you're not using enough](http://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/ "Interface, you're not using enough")
+- [ ] [Understanding GO language memory usage](https://deferpanic.com/blog/understanding-golang-memory-usage/ "Understanding GO language memory usage")
+- [ ] [Go's Declaration syntax](https://blog.golang.org/gos-declaration-syntax "Go's Declaration syntax")
+- [ ] [How to write GO code](https://golang.org/doc/code.html "How to write Go code")
+- [ ] [Is Go an Object Oriented language?](http://spf13.com/post/is-go-object-oriented/ "Is Go an Object Oriented language?")
+- [ ] [Effective unit testing](http://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/ "Effective unit testing")
+
+## Tips & Trick
+
+- [ ] [50 tips, traps, mistake in Goers](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ "50 tips, traps, mistake in Goers")
+- [ ] [10 things you don't know about Go](https://talks.golang.org/2012/10things.slide "10 things you don't know about Go")
+- [ ] [10 Useful techniques in GO](http://arslan.io/ten-useful-techniques-in-go "10 Useful techniques in Go")
+- [ ] [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide "Twelve Go Best Practices")
+- [ ] [7 Common mistakes in Go](spf13.com/presentation/7-biggest-mistakes-in-go/ "7 Common mistakes in Go")
 
 ## Understanding of [go proverbs](http://go-proverbs.github.io)
 
