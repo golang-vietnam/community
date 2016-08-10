@@ -16,7 +16,7 @@ Notes
 ### Product
 
 - Delivr - http://delivr.to
-- Lozi - https://lozi.vn
+- Lozi - http://lozi.vn
 - Lazada Tech Hub - http://techhub.lazada.com
 - Zalora - https://zalora.vn
 
