@@ -27,6 +27,7 @@ Notes
 
 ## List of Vietnam Gophers
 
+- Lê Đông Thức - https://github.com/ledongthuc
 - Lê Minh Quang - https://github.com/ivkean
 - Lê Ngọc Thạch - https://github.com/runivn
 - Nguyễn Đức Tâm - https://github.com/tamnd87
@@ -34,7 +35,6 @@ Notes
 - Ngô Ngọc Trường Hân - https://github.com/tieubao
 - Nguyễn Mậu Quang Vũ - https://github.com/ng-vu
 - Phạm Huỳnh Minh Triết - https://github.com/trietphm
-- Lê Đông Thức - https://github.com/ledongthuc
 
 ## List of open source projects by Vietnam Gophers
 
