@@ -5,6 +5,7 @@
 ## A good software developer
 
 - [ ] Write unit test
+- [ ] Write testable code
 
 ## Git know how
 
