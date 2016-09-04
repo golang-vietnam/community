@@ -43,4 +43,5 @@ Notes
 - [glod-cli](https://github.com/dwarvesf/glod-cli) - A small command line to download files from several sources
 - [gogi](https://github.com/Gnouc/gogi) - Go client for gitignore.io
 - [hget](https://github.com/huydx/hget) - A rocket fast download accelerator written in golang
+- [num2vn-go](https://github.com/philipdac/num2vn-go) - A go package that converts number to string in Vietnamese language
 - [sen](https://github.com/dwarvesf/sen) - Separated API automation testing made easy
