@@ -22,6 +22,8 @@
 - [ ] [Interface, you're not using enough](http://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/ "Interface, you're not using enough")
 - [ ] [Is Go an Object Oriented language?](http://spf13.com/post/is-go-object-oriented/ "Is Go an Object Oriented language?")
 - [ ] [How to write Go code](https://golang.org/doc/code.html "How to write Go code")
+- [ ] [Neither self nor this: Receivers in Go](https://blog.heroku.com/neither-self-nor-this-receivers-in-go)
+- [ ] [SOLID Go Design](http://dave.cheney.net/2016/08/20/solid-go-design)
 - [ ] [Understanding Go language memory usage](https://deferpanic.com/blog/understanding-golang-memory-usage/ "Understanding Go language memory usage")
 
 ## Tips & Trick
