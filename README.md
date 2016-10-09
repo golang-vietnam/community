@@ -41,6 +41,7 @@ Notes
 
 - [envim](https://github.com/Gnouc/envim) - Go environment variables for human
 - [glod-cli](https://github.com/dwarvesf/glod-cli) - A small command line to download files from several sources
+- [gocmt](https://github.com/Gnouc/gocmt) - Add missing comment on exported function, method, type, constant, variable in go file
 - [gogi](https://github.com/Gnouc/gogi) - Go client for gitignore.io
 - [hget](https://github.com/huydx/hget) - A rocket fast download accelerator written in golang
 - [num2vn-go](https://github.com/philipdac/num2vn-go) - A go package that converts number to string in Vietnamese language
