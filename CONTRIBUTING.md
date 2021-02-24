@@ -1,8 +1,5 @@
 This resource was made by the Go community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/golang-vietnam/community/graphs/contributors).
 
-Join us on [Slack](http://slack.golang.org.vn)
-
-
 # Contribution Guidelines
 
 - **To add, remove, or change things on the list:** Submit a pull request
@@ -16,7 +13,6 @@ To set this list apart from and compliment the excellent [Go wiki Projects page]
 - Needs bibliotica 3 (minimum) to create a new category.
 
 Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
-
 
 ## Reporting issues
 
